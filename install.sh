@@ -28,7 +28,7 @@ print_banner() {
     echo -e "\e[1;34m${banner_line}\e[0m"  # Blue
 echo -e ${RESET}
 echo -e ${RED}
-figlet "Metasploit"
+figlet "KALI LINUX"
 echo -e ${RESET}
 echo -e ${BLUE}
 figlet "Installer"
