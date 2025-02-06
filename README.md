@@ -2,7 +2,7 @@
 A script to install kali linux on termux without any error &amp; problem!
 
 Creator: Maloy Roy Orko
-Website: <a href="https://websecurityinsights.my.id/">
+Wanna Go To My Website? <a href="https://websecurityinsights.my.id/">Click me</a>
 
 Installation:
 
