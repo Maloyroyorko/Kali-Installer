@@ -56,4 +56,4 @@ run_command "wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/m
 echo -e ${RESET}
 echo -e "${GREEN}Kali Linux INSTALLED SUCCESSFULLY!"
 echo -e ${RESET}
-echo -e "${GREEN}Use ${RED}./start-kali.sh${RED} to use Kali Linux ! "
+echo -e "Use ${GREEN}./start-kali.sh In Kali-Installer Directory${GREEN} to use Kali Linux ! "
